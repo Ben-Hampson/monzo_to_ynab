@@ -1,0 +1,5 @@
+Transaction ID,Date,Time,Type,Name,Emoji,Category,Amount,Currency,Local amount,Local currency,Notes and #tags,Address,Receipt,Description,Category split,Money Out,Money In
+tx_0000A5nCQzxRuBLQA79jUX,01/04/2021,05:23:28,Faster payment,St Lukes Edgbaston,,Charity,-10.00,GBP,-10.00,GBP,Giving,,,Giving,,-10.00,
+tx_0000A5ng7vu1ktAkvuNz7p,01/04/2021,10:56:10,Card payment,Spotify,🎵,Entertainment,-12.99,GBP,-12.99,GBP,,"4th Floor, 25 Argyll Street",,Spotify P14287FE44     London        GBR,,-12.99,
+tx_0000A5x69N7MOywGC1oYEL,06/04/2021,00:00:10,Card payment,Yes Friends,👕,Shopping,-23.97,GBP,-23.97,GBP,,"Field House, The Hildens",,SP * YES FRIENDS       +447791458634 GBR,,-23.97,
+tx_0000A5ykInbvSgAln46Wif,06/04/2021,19:04:47,Faster payment,Laurel Hampson,,Groceries,-2.75,GBP,-2.75,GBP,Lidl,,,Lidl,,-2.75,
