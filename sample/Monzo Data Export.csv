@@ -1,0 +1,49 @@
+Transaction ID,Date,Time,Type,Name,Emoji,Category,Amount,Currency,Local amount,Local currency,Notes and #tags,Address,Receipt,Description,Category split,Money Out,Money In
+tx_0000A5EsQkU46DK5pczaeA,01/03/2021,16:53:56,Card payment,Aldi,🍏,Groceries,-16.85,GBP,-16.85,GBP,For the party,Noble Lane,,ALDI STORES LIMITED    HALESOWEN     GBR,,-16.85,
+tx_0000A5HDg2XQahJBTbV15x,03/03/2021,15:03:51,Card payment,Amazon Web Services,☁️,Bills,-10.69,GBP,-0.96,USD,,,,AWS EMEA               aws.amazon.co LUX,,-0.69,
+tx_0000A5LbJQNiYwpVpsFCiR,04/03/2021,16:56:44,Card payment,Tesco,🍏 ,Groceries,-11.67,GBP,-11.67,GBP,,,,TESCO STORES ,,-11.67,
+tx_0000A5N3veHwft7CZQlnEx,08/03/2021,16:11:15,Card payment,Aldi,🍏,Groceries,-11.87,GBP,-11.87,GBP,,Noble Lane,,ALDI STORES LIMITED    HALESOWEN     GBR,,-11.87,
+tx_0000A5Ss6C8pfiojWmghJV,09/03/2021,14:50:56,Card payment,Packlink,📰,General,-2.93,GBP,-2.93,GBP,,Calle De Amaltea 9                           ,,Packlink               Madrid        ESP,,-2.93,
+tx_0000A5Svdjdy3B7yHsunse,09/03/2021,18:21:47,Card payment,Tesco,🍏 ,Groceries,-8.40,GBP,-8.40,GBP,Strawberries were on sale,North Passage,,TESCO STORES ,,-8.40,
+tx_0000A5TpCsO72PKrGO1Kgc,10/03/2021,14:25:42,Card payment,Packlink,📰,General,-5.38,GBP,-5.38,GBP,,Calle De Amaltea 9                           ,,Packlink               Madrid        ESP,,-5.38,
+tx_0000A5U2q9EvDbizqDTUpr,10/03/2021,19:17:38,Faster payment,Tim Tromans,,,150.00,GBP,150.00,GBP,Painted the fence,,,,,,150.00
+tx_0000A5VlNrELjlQotcLui3,10/03/2021,19:51:32,Card payment,ATM,🏦,Finances,-85.00,GBP,-85.00,GBP,,TESCO ,,"TESCO",,-85.00,
+tx_0000A5W5e7mSr3Lt86OQIX,11/03/2021,11:37:28,Card payment,Amazon,📦,Shopping,-36.63,GBP,-36.63,GBP,,"1 Principal Pl, Grand Lane",,AMZNMktplace           amazon.co.uk  GBR,,-36.63,
+tx_0000A5W5jbvPA4lFTqVGlZ,11/03/2021,12:06:18,Card payment,Phonelinks,,Bills,-2.29,GBP,-2.29,GBP,,,,PAYPAL *PHONELINKS EBA 35314369001   GBR,,-2.29,
+tx_0000A5XPnPtosyA5KJ0W3R,12/03/2021,11:17:16,Faster payment,PAYPAL,,,140.49,GBP,140.49,GBP,,,,,,,140.49
+tx_0000A5YUD3tXbF21M4i0yV,12/03/2021,11:19:38,Card payment,Amazon,📦,Shopping,-9.99,GBP,-9.99,GBP,,"1 Principal Pl, Grand Lane",,AMZNMktplace           amazon.co.uk  GBR,,-9.99,
+tx_0000A5ZGgxhzdHEXiOb0ER,12/03/2021,11:20:18,Card payment,Amazon,📦,Shopping,9.99,GBP,9.99,GBP,#lovePrime,Worship Street,,AMAZON MARKETPLACE     AMAZON.CO.UK  GBR,,,9.99
+tx_0000A5hrfLlQaIPRYe86Ul,12/03/2021,11:21:10,Card payment,Amazon,📦,Shopping,-9.99,GBP,-9.99,GBP,,,,AMZNMKTPLACE AMAZON.CO LONDON        GBR,,-9.99,
+tx_0000A5i8S1otqnvl63gj3m,12/03/2021,12:00:18,Card payment,ATM,🏦,Finances,-40.00,GBP,-40.00,GBP,Window cleaner,TESCO,,"TESCO",,-40.00,
+tx_0000A5jzcBU95RR4VMAiiB,12/03/2021,13:01:33,Card payment,Sainsburys,💻,Entertainment,-31.99,GBP,-31.99,GBP,,,,SAINSBURYS STORE,,-31.99,
+tx_0000A4pvKblZgTCMm1Xir0,12/03/2021,19:52:48,Card payment,ATM,🏦,Finances,-15.00,GBP,-15.00,GBP,,TESCO,,"TESCO",,-15.00,
+tx_0000A4s9v5I1UDR4GtbDhj,13/03/2021,12:54:19,Card payment,13-06727-81551,,Shopping,-39.99,GBP,-39.99,GBP,,22-24 Boulevard Royal,,eBay O*13-06727-81551  Luxembourg    LUX,,-39.99,
+tx_0000A50Numz0bYIcHwMAMc,13/03/2021,15:31:44,Card payment,01-06729-97900,,Shopping,-2.75,GBP,-2.75,GBP,,22-24 Boulevard Royal,,eBay O*01-06729-97900  Luxembourg    LUX,,-2.75,
+tx_0000A52LGGcvfpD9MDYydp,13/03/2021,16:02:34,Card payment,Eco Fit,🔌,Shopping,-3.80,GBP,-3.80,GBP,,Unit 5                                       ,,Northampton   GBR,,-3.80,
+tx_0000A52e4xpOKG3eoCKtfE,13/03/2021,16:59:30,Faster payment,Geoff Bezos,,,149.62,GBP,149.62,GBP,Geoff Bezos... the name seems familiar?,,,,,149.62
+tx_0000A54NWSAKIgs6oPY8y5,13/03/2021,17:22:15,Card payment,The King's Arms,,Shopping,-42.67,GBP,-42.67,GBP,,222 Coral Lane,,,,-42.67,
+tx_0000A54nZotZviTqMFr9aA,13/03/2021,17:25:35,Card payment,Amazon,📦,Shopping,-13.99,GBP,-13.99,GBP,iPhone Charger,,,AMZNMKTPLACE AMAZON.CO LONDON        GBR,,-13.99,
+tx_0000A54qbO16RNfWYuekAZ,14/03/2021,22:47:24,Card payment,Apple,🍎 ,Shopping,-2.49,GBP,-2.49,GBP,,,,APPLE.COM/BILL         08001076285   IRL,,-2.49,
+tx_0000A56D1TxJ3sMkUrDTIq,15/03/2021,15:23:44,Card payment,ATM,🏦,Finances,-20.00,GBP,-20.00,GBP,,,,Post Office,,-20.00,
+tx_0000A56Fb1IZwl17ihCqDN,15/03/2021,15:59:08,Card payment,One Stop,,Groceries,-20.55,GBP,-20.55,GBP,,,,ONE STOP 6263,,-20.55,
+tx_0000A58FjaGjeYGfyPmNBL,16/03/2021,19:06:37,Faster payment,Jan Thompson,,General,-15.94,GBP,-15.94,GBP,,,,,,-15.94,
+tx_0000A58FweA0imDhoepieD,18/03/2021,21:50:18,Card payment,Amazon,📦,Shopping,-5.95,GBP,-5.95,GBP,,"1 Principal Pl, Grand Lane",,AMZNMktplace           amazon.co.uk  GBR,,-5.95,
+tx_0000A58G0LrAgonzoNHHPD,19/03/2021,14:45:39,Card payment,Amazon,📦,Shopping,-6.49,GBP,-6.49,GBP,,"1 Principal Pl, Grand Lane",,AMZNMktplace           amazon.co.uk  GBR,,-6.49,
+tx_0000A58G57OMYWyf1DEABi,22/03/2021,10:01:23,Faster payment,Rosy Smith,,,327.68,GBP,327.68,GBP,SMITH R,,,SMITH R,,,327.68
+tx_0000A5k83zvKeYXBspFFnP,22/03/2021,10:41:03,Card payment,Amazon,📦,Shopping,-54.38,GBP,-54.38,GBP,,"1 Principal Pl, Grand Lane",,AMZNMktplace           amazon.co.uk  GBR,,-54.38,
+tx_0000A5kJUzIwZfTVOP3Puf,22/03/2021,21:03:41,Card payment,Packlink,📰,General,-2.89,GBP,-2.89,GBP,,Calle De Amaltea 9                           ,,Packlink               Madrid        ESP,,-2.89,
+tx_0000A5kJYuovuNCD0U0s5f,22/03/2021,23:36:27,Card payment,Amazon,📦,Shopping,-7.61,GBP,-7.61,GBP,,38 Avenue John F. Kennedy,,AMZN Mktp UK           AMAZON.CO.UK  LUX,,-7.61,
+tx_0000A5kJbUZXYByD3MfyhZ,23/03/2021,19:30:16,Card payment,Crisp Shop,📰,General,-2.89,GBP,-2.89,GBP,,Calle De Amaltea 9                           ,,Packlink               Madrid        ESP,,-2.89,
+tx_0000A5kP3PjtMrJ47CEc6e,23/03/2021,23:17:18,Card payment,Amazon,📦,Shopping,-1.99,GBP,-1.99,GBP,,,,AMAZON UK RETAIL       WWW.AMAZON.CO LUX,,-1.99,
+tx_0000A4lw7yPFMRHdbueDoW,23/03/2021,23:18:18,Card payment,19-06787-79434,,Shopping,-2.30,GBP,-2.30,GBP,,22-24 Boulevard Royal,,eBay O*19-06787-79434  Luxembourg    LUX,,-2.30,
+tx_0000A58JZdEaEHTOUdilUn,24/03/2021,14:37:48,Card payment,Aldi,🍏,Groceries,-21.85,GBP,-21.85,GBP,,Noble Lane,,ALDI STORES LIMITED    HALESOWEN     GBR,,-21.85,
+tx_0000A58P2ZAFHG30CiPLVx,25/03/2021,03:01:58,Direct Debit,Three,,Bills,-8.00,GBP,-8.00,GBP,,,,,,-8.00,
+tx_0000A58zk5aCuyhd93dRp6,25/03/2021,12:05:13,Faster payment,J Z Tronch,,General,-50.00,GBP,-50.00,GBP,iPad,,,iPad,,-50.00,
+tx_0000A5ASuQ9dp0mfbfeeuj,29/03/2021,15:37:12,Card payment,Tesco,🍏 ,Groceries,-7.89,GBP,-7.89,GBP,,Foxoak Street,,TESCO STORES ,,-7.89,
+tx_0000A5AgxPIer9JTdhOQxh,29/03/2021,18:45:16,Card payment,Packlink,📰,General,-2.89,GBP,-2.89,GBP,,Calle De Amaltea 9                           ,,Packlink               Madrid        ESP,,-2.89,
+tx_0000A5Aji09Uufyc9jj8UB,30/03/2021,16:15:41,Card payment,You Need A Budget,💰,Finances,-54.95,GBP,-75.59,USD,,,,YOU NEED A BUDGET      LEHI          UT ,,-54.95,
+tx_0000A5Aon3ejAcG93UpXXJ,30/03/2021,17:50:21,Card payment,14-06824-85986,,Shopping,-48.99,GBP,-48.99,GBP,,22-24 Boulevard Royal,,eBay O*14-06824-85986  Luxembourg    LUX,,-48.99,
+tx_0000A5AqovvuEXWTwHaA4X,30/03/2021,19:58:29,Card payment,Invoice,,General,62.81,GBP,62.81,GBP,,22-24 BOULEVARD ROYAL,,PAYPAL*HAMPSON BEN     Luxembourg    LUX,,,62.81
+tx_0000A5Ar7MXIpgJtlj7T2g,30/03/2021,19:59:12,Card payment,Vault Graphics,,General,34.36,GBP,34.36,GBP,,22-24 BOULEVARD ROYAL,,PAYPAL*HAMPSON BEN     Luxembourg    LUX,,,34.36
+tx_0000A5DOLtzQdHzls3Fa9g,30/03/2021,19:59:40,Card payment,Oasis Marketing,,General,52.55,GBP,52.55,GBP,,22-24 BOULEVARD ROYAL,,PAYPAL*HAMPSON BEN     Luxembourg    LUX,,,52.55
+tx_0000A5EpGsKcpy1TV6YE6P,30/03/2021,21:00:44,Card payment,02-06827-74608,,Shopping,-20.24,GBP,-20.24,GBP,,22-24 Boulevard Royal,,eBay O*02-06827-74608  Luxembourg    LUX,,-20.24,
