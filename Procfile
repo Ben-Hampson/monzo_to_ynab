@@ -1,0 +1,1 @@
+web: gunicorn monzo_to_ynab.wsgi
