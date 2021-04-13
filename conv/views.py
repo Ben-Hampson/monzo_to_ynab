@@ -17,8 +17,8 @@ def index(request):
             messages.error(request, "Please select a .csv file.")
             return redirect('home')
 
-        if uploaded_file.size > 1024:
-            messages.error(request, "This file is too big. Please try again with a smaller CSV file.")
+        if uploaded_file.size > 1000000:
+            messages.error(request, f"This file is too big ({uploaded_file.size / 1000000:.2f}MB). Please choose a CSV file that is 1MB or less.")
             print("File too big.")
             return redirect('home')
 

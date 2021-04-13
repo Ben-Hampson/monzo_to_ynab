@@ -27,7 +27,8 @@ SECRET_KEY = config('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = config('DEBUG')
 
-ALLOWED_HOSTS = ['monzo-to-ynab-csv.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1',
+                 'monzo-to-ynab-csv.herokuapp.com']
 
 
 # Application definition
